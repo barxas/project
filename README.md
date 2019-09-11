@@ -1,4 +1,4 @@
-# project# README
+# README
 
 
 Для подключения к БД необходимо в классе App изменить переменные user и password
